@@ -1,0 +1,26 @@
+{
+  "name": "osurank",
+  "version": "0.1.0",
+  "description": "widget to display osu stats",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreSenpai/Osu-Rank.git"
+  },
+  "keywords": [
+    "Osu",
+    "rank"
+  ],
+  "author": "AlexandreSenpai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandreSenpai/Osu-Rank/issues"
+  },
+  "homepage": "https://github.com/AlexandreSenpai/Osu-Rank#readme",
+  "devDependencies": {
+    "electron": "^6.0.9"
+  }
+}
