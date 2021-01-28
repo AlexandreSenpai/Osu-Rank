@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/AlexandreSenpai/Osu-Rank#readme",
   "devDependencies": {
-    "electron": "^6.0.9"
+    "electron": "^9.4.0"
   }
 }
